@@ -1,0 +1,11 @@
+訂正前）
+select
+   +
+from
+ books :
+
+訂正後）
+select
+  *
+from
+  books;
